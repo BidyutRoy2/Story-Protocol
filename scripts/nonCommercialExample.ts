@@ -84,27 +84,5 @@ const main = async function () {
     })
     console.log(`Derivative IPA linked to parent at transaction hash ${linkDerivativeResponse.txHash}`)
 }
-
-echo -e "${GREEN}
-
-##   ##   ######  #####    #####    #######  ##    ## 
-##   ##     ##    ##  ##   ##  ##   ##       ###   ## 
-##   ##     ##    ##   ##  ##   ##  ##       ## #  ## 
-#######     ##    ##   ##  ##   ##  #####    ##  # ## 
-##   ##     ##    ##   ##  ##   ##  ##       ##   ### 
-##   ##     ##    ##  ##   ##  ##   ##       ##    ## 
-##   ##   ######  #####    #####    #######  ##    ## 
-                                                      
-        #####     #######  ##     ## 
-       ##   ##    ##       ###   ### 
-       ##         ##       ## # # ##   
-       ##  #####  #####    ##  #  ##   
-       ##   ## #  ##       ##     ##  
-       ##   ## #  ##       ##     ##   
-        #####     #######  ##     ## 
-
-echo -e ' Wellcome To Hidden Gem Node Running Installation Guide '
-
-${NORMAL}" | tee -a "$LOGFILE"
-
+    
 main()
