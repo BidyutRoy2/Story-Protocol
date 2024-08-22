@@ -15,7 +15,7 @@ git clone https://github.com/BidyutRoy2/Story-Protocol.git && cd Story-Protocol
 nano .env
 ```
 ```
-WALLET_PRIVATE_KEY= ETH Wallet Private Key (without 0x)
+WALLET_PRIVATE_KEY=Enter ETH Wallet Private Key (without 0x) & Save To .env File
 ```
 
 - Use `W` , `A`, `S`, `D` key to move the cursor and use `Ctrl + X` then `Y` and the press `Enter` to save the `.env` file
