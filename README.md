@@ -1,14 +1,14 @@
 <h2 align=center> Register IP with License on Sepolia Testnet</h2>
 
 <p align="center">
-<img src='image.jpg' width='600'>
+<img src='image.jpg' style="width:1200px;height:800px;">
 </p>
 
-
-https://github.com/user-attachments/assets/92088d65-accf-4fa5-8d7f-047c67f14d71
-
+# How to Follow Guide 
 
 - Open [Codespace](https://github.com/codespaces) or [Gitpod](https://gitpod.io/workspaces)
+
+  
 - Clone this repo using below mentioned command
 ```bash
 git clone https://github.com/BidyutRoy2/Story-Protocol.git && cd Story-Protocol
@@ -21,6 +21,10 @@ nano .env
 ```
 WALLET_PRIVATE_KEY=Enter ETH Wallet Private Key (without 0x) & Save To .env File
 ```
+
+<p align="center">
+<img src='PrivateKey.jpg' style="width:800;height:50;">
+</p>
 
 - Use `W` , `A`, `S`, `D` key to move the cursor and use `Ctrl + X` then `Y` and the press `Enter` to save the `.env` file
 - Make sure that you have atleast 0.2 Sepolia ETH in the wallet
