@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/92088d65-accf-4fa5-8d7f-047c67f14d71
 - Open [Codespace](https://github.com/codespaces) or [Gitpod](https://gitpod.io/workspaces)
 - Clone this repo using below mentioned command
 ```bash
-git clone https://github.com/dxzenith/Story-Protocol.git && cd Story-Protocol
+git clone https://github.com/BidyutRoy2/Story-Protocol.git && cd Story-Protocol
 ```
 - Always use **Burner Wallet** to try out these type tasks
 - Add your sepolia wallet's private key (without 0x) to `.env` file using below command
