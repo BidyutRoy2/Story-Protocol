@@ -14,6 +14,10 @@ git clone https://github.com/BidyutRoy2/Story-Protocol.git && cd Story-Protocol
 ```bash
 nano .env
 ```
+```
+WALLET_PRIVATE_KEY= ETH Wallet Private Key (without 0x)
+```
+
 - Use `W` , `A`, `S`, `D` key to move the cursor and use `Ctrl + X` then `Y` and the press `Enter` to save the `.env` file
 - Make sure that you have atleast 0.2 Sepolia ETH in the wallet
 - Now install all the dependencies
